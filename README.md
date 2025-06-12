@@ -1,5 +1,5 @@
 # Coor-Sys
-A database for Coor-Sys
+A database for Coor-Sys (To do list: English Translation) 
 
 坐标系, 是科学世界中最基础也最重要的概念之一. 它无处不在: 从物理建模到数据可视化, 从数学证明到生活中的找座位、导航定位. 然而, 遗憾的是, 它常常被“日用而不知”——我们使用它, 却时常忽略它的存在与重要性. 
 
